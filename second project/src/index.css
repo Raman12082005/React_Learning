@@ -1,0 +1,17 @@
+body{
+  background-color: rgb(35, 35, 35);
+  color : white;
+}
+.card{
+  background-color: rgb(116, 0, 0);
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+  padding: 20px;
+  width: 300px;
+}
+.navbar{
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  color : black
+}
