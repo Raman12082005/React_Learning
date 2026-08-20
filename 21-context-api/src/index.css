@@ -1,0 +1,17 @@
+body{
+  background-color: #353535;
+  color : white;
+}
+
+.nav{
+  display: flex;
+  align-items: center;
+  background-color: lightseagreen;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+.nav2{
+  display: flex;
+  gap : 30px
+}
